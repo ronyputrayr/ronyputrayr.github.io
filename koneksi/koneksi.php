@@ -2,7 +2,7 @@
     $user = 'root';
     $pass = '';
 
-    $koneksi = new PDO("mysql:host=localhost;dbname=rental_mobil", $user, $pass);
+    $koneksi = new PDO("mysql:host=localhost;dbname=codekop_free_rental_mobil", $user, $pass);
 
     global $url;
     $url = "http://localhost/rental_mobil/";
