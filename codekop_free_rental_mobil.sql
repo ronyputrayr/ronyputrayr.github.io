@@ -81,7 +81,7 @@ CREATE TABLE `login` (
 -- Dumping data for table `login`
 --
 
-INSERT INTO `login` (`id_login`, `nama_pengguna`, `username`, `password`, `level`) VALUES
+INSERT INTO `login` (`id_login`, `nama_pengguna`, `username`, `password`, `level`) VALUES (`1`, `ronyputra`, `rony`, `12345`);
 
 -- --------------------------------------------------------
 
